@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>URI_1001</RootNamespace>
+    <RootNamespace>URI_1013</RootNamespace>
   </PropertyGroup>
 
 </Project>
